@@ -83,7 +83,7 @@
         <!-- Left -->
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a href="index" class="nav-link" >
+                <a href="index.php" class="nav-link" >
                
                 </a>
               </li>
@@ -92,29 +92,29 @@
         <!-- Right -->
         <ul class="navbar-nav nav-flex-icons">
           <li class="nav-item ocultar-movil-992">
-            <a href="index" class="nav-link btn-white">
+            <a href="index.php" class="nav-link btn-white">
               inicio
             </a>
           </li>
           <li class="nav-item mostrar-movil-992">
-              <a href="index" class="nav-link btn-white "  style="font-size: 28px; padding: 0;"
+              <a href="index.php" class="nav-link btn-white "  style="font-size: 28px; padding: 0;"
                >
                <i class="fas fa-home"></i>
               </a>
             </li>
          
           <li class="nav-item ocultar-movil-992">
-            <a href="index#conocenos" class="nav-link btn-white" >
+            <a href="index.php#conocenos" class="nav-link btn-white" >
                 Conócenos
             </a>
           </li>
           <li class="nav-item mostrar-movil-992">
-              <a href="index#conoce" class="nav-link btn-white" >
+              <a href="index.php#conoce" class="nav-link btn-white" >
                   Conócenos
               </a>
             </li>
           <li class="nav-item">
-            <a href="index#contactanos" class="nav-link btn-white "
+            <a href="index.php#contactanos" class="nav-link btn-white "
              >
               Contáctanos
             </a>

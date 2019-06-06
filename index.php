@@ -147,7 +147,7 @@
   
     <div class="container" style="background-color: white; padding:2rem; "><!--CONTAINER-->
       <div id="tabs"><!--END FIRST TABLES-->
-           <ul ><!--style="display: flex; justify-content: space-between;"-->
+           <ul style="    margin-top: -85px;"><!--style="display: flex; justify-content: space-between;"-->
                <li class="serv"><a href="#tabs-1" ><button class="btn-conocenos1"><img class="img-1" src="img/1.png" alt=""></button></a></li>
                <li class="serv"><a href="#tabs-2" ><button class="btn-conocenos2"><img class="img-2" src="img/4.png" alt=""></button> </a></li>
                <li class="serv"><a href="#tabs-3" ><button class="btn-conocenos3"><img class="img-3" src="img/3.png" alt=""></button></a></li>
@@ -193,16 +193,45 @@
                                                         <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/3.jpg"  alt="Auto Zone">
                                                     </div>
                                             </div>
-                                            
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Edades Recomendadas</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">  De 4 años en adelante, inclusive los papás pueden jugar!!  </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Conoce Galaxer</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Conoce el laberinto en el cual  se vive estrategia, adrenalina y trabajo en equipo. </span> 
+                            </div>
+                         </div>
+                          <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Equipado con la mejor tecnología laser</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Nuestros chalecos y disparadores son muy seguros y fáciles de usar. </span> 
+                            </div>
+                         </div>
+                         
+                         
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 " src="img/years.png" alt="paquetes" width="25"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Equipo Abalado</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Nuestros Equipos se encuentran abalados por Delta Strike marca líder en Estados Unidos y Galaxer distribuidor oficial en Latino América. </span> 
+                            </div>
+                         </div>
                                                   </div>
                                             </div><!-- Card -->
-                                            <h3 style="color:#D30857; margin-top: 20PX;;"> Disfruta de Lazer Game EL ÚNICO EN LA ZONA!!</h3>
-                                            <p class="text"><strong style="font-weight: 700;">Equipado con la mejor tecnología laser</strong>, nuestros chalecos y 
-                                              disparadores son muy seguros y fáciles de usar, los recomendamos para pequeños desde 4 años en adelante, inclusive los papás pueden jugar!!
-                                                Conoce el laberinto en el cual  se vive estrategia, adrenalina y trabajo en equipo <span style="font-weight: 700;">Disfruta al máximo una experiencia única!!!</span>
-                                                </p> 
-                                              <p class="text">Equipos abalados por Delta Strike marca líder en Estados Unidos y Galaxer distribuidor oficial en Latino América.</p>
-                                               
+                                               <br>
+                           
+
                                             
                                           </div>
                                           <div id="GAMEROOM" >
@@ -258,30 +287,102 @@
                      <div class="row">
                        <div class="col-xs-12 col-md-2"></div>
                        <div class="col-xs-12 col-md-8">
-                          <div class="card  margen-top3 paquetes">
-                              <div class="card-header-peach">
+                          <div class="card  margen-top3 ">
+                              <div class="card-header-menus">
                                   <div class="row justify-content-center">
-                                      <img  class="img-paquetes" src="img/PAQUETES.png" alt="">
+                                      <img  class="img-paquetes" src="img/PAQUETES.png" alt="paquetes">
                                   </div>
                                   <h4 class="card-title text-center">PAQUETE SENCILLO </h4>
                               </div>
+                              
                       <!-- Card content -->
                               <div class="card-body">
-                                        <li class="paq"> <span class="rosa">&check;</span> Platillos</li>
-                                        <li class="paq">  <span class="rosa">&check;</span> Agua de sabor (2 horas)</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Refresco (2 horas)</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Agua natural todo el evento.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Café todo el evento.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Servicio de hielos.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Loza de vidrio adultos</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Mantelería a elegir colores.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> 4 Horas de instalación climatizada.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Staff de apoyo.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Coordinador del evento</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Incluyen los 3 pisos.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Cortesía: Invitación Giochi impresas.</li>
-                                        <li class="paq"> <span class="rosa">&check;</span> Cortesía: Invitación Giochi virtual.</li>
-                                        <li class="paq"> <span class="rojo">&cross;</span> No incluye desechables del pastel.</li>
+                                
+                              <div class="media ">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Platillos</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Agua de sabor (2 horas)</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Refresco (2 horas)</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Agua natural todo el evento.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Café todo el evento.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">  Servicio de hielos.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Loza de vidrio adultos</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Mantelería a elegir colores.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> 4 Horas de instalación climatizada.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Staff de apoyo.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Coordinador del evento</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Incluyen los 3 pisos.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Cortesía: Invitación Giochi impresas.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Cortesía: Invitación Giochi virtual.</span> 
+                        </div>
+                     </div> <br>
+                     <li class="paq"> <span class="rojo">&cross;</span> No incluye desechables del pastel.</li>
                               </div>
                         </div><!-- Card -->
                        </div>
@@ -293,8 +394,8 @@
                         <div class="row">
                             <div class="col-xs-12 col-md-2"></div>
                             <div class="col-xs-12 col-md-8">
-                                <div class="card paquetes margen-top3">
-                                    <div class="card-header-peach">
+                                <div class="card margen-top3">
+                                    <div class="card-header-menus">
                                         <div class="row justify-content-center">
                                             <img  class="img-paquetes" src="img/PAQUETES.png" alt="paquetes giochi">
                                         </div>
@@ -302,24 +403,86 @@
                                     </div>
                                       <!-- Card content -->
                                       <div class="card-body">
-                                          <p> <span class="rosa">&divonx;</span> Incluye lo mencionado en el paquete Sencillo ADEMÁS, como Servicios adicionales:</p>
-                                          
-                                          <li class="paq"> <span class="rosa">&check;</span> Pastel. </li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Piñata.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Centros de mesa.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Bolsas de dulces.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Bolsitas de dulces.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Botanas en las mesas rellenable 2 veces.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Palomitas 1 servicio.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Mesa de picositos AUN más deliciosa!!</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Arco de globos.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Velita. (número)</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Botarga disponible.</li>
-                                          <li class="paq"> <span class="rosa">&check;</span> Circuito cerrado.</li>
-                                          <li class="paq"> <span class="rosa">&divonx; </span> Paquetes a partir de 100 incluye 2 piñatas.</li>
-                                          <li class="paq"> <span class="rosa">&divonx; &divonx; </span> Cantidad de bolsitas segun el paquete.</li>
-                                              
-                                    </div>
+                                      <h5 class="menu mt-0  ">Incluye lo mencionado en el paquete Sencillo ADEMÁS, como Servicios adicionales:</h5>
+                              <div class="punteado"></div>                  
+                      <div class="media ">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Pastel.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Piñata.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Centros de mesa.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Bolsitas de dulces.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Botanas en las mesas rellenable 2 veces.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Palomitas 1 servicio.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Mesa de picositos AUN más deliciosa!!</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Arco de globos.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Velita. (número)</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Botarga disponible.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Circuito cerrado.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Paquetes a partir de 100 incluye 2 piñatas.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Cantidad de bolsitas segun el paquete.</span> 
+                        </div>
+                     </div>  </div>
                                               
                               </div>
                             </div>
@@ -330,21 +493,36 @@
                         <div class="row">
                             <div class="col-xs-12 col-md-2"></div>
                             <div class="col-xs-12 col-md-8">
-                               <div class="card paquetes margen-top3">
-                                   <div class="card-header-peach">
+                               <div class="card  margen-top3">
+                                   <div class="card-header-menus">
                                        <div class="row justify-content-center">
                                            <img  class="img-paquetes" src="img/PAQUETES.png" alt="">
                                        </div>
-                                       <h4 class="card-title text-center">Renta de instalaciones </h4>
+                                       <h4 class="card-title text-center">solo Renta de instalaciones </h4>
                                    </div>
                            <!-- Card content -->
                                    <div class="card-body">
-                                     <p class="text">Si deseas rentar únicamente las instalaciones de Giochi sin contratar ningun paquete.</p>
-                                     <h6 class="yellow2">Lunes - Jueves</h6>
-                                        <li class="paq"> <span class="menu-rosa">&circledcirc;</span> 6,500</li> <br>
-                                        <h6 class="yellow2">Viernes - Domingos</h6>
-                                        <li class="paq"> <span class="menu-rosa">&circledcirc;</span> 7,500</li>
-                                   </div>
+                                   <h5 class="menu mt-0  ">Si deseas rentar únicamente las instalaciones de Giochi sin contratar ningun paquete.</h5>
+                              <div class="punteado"></div>
+                        
+                            <div class="media">
+                                <img class="d-flex mr-3" src="img/star2.png"  alt="star">
+                                <div class="media-body">
+                                    <h5 class="mt-0 ">Lunes- Jueves</h5>
+                                    <p class="text">
+                                $6,500
+                                </p>
+                                </div>
+                            </div> 
+                            <div class="media">
+                                <img class="d-flex mr-3" src="img/star2.png"  alt="star">
+                                <div class="media-body">
+                                    <h5 class="mt-0 ">Viernes - Domingo</h5>
+                                    <p class="text">
+                                $7,500
+                                </p>
+                                </div>
+                            </div> </div>
                              </div><!-- Card -->
                             </div>
                             <div class="col-xs-12 col-md-2"></div>
@@ -383,17 +561,61 @@
                                           </div>
                                           <!-- Card content -->
                                           <div class="card-body">
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Mini pizza. </li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Hamburguesa de sirloin con papas a la francesa. </li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Tacos de cochinita con frijoles.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Tamales de pollo con frijoles.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Nuggets con papas a la francesa o espagueti o macarrones con queso.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Flautas de pollo con frijoles.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Hot dog con papas a la francesa.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Marinitas con papas a la francesa.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Molletes de frijol y queso o frijol, queso y jamón.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Quesadillas fritas con frijoles.</li>
-                                          </div>
+                                          <div class="media ">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Mini pizza.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Tacos de cochinita con frijoles.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Tamales de pollo con frijoles.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Nuggets con papas a la francesa o espagueti o macarrones con queso.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Flautas de pollo con frijoles.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Hot dog con papas a la francesa.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Marinitas con papas a la francesa.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Molletes de frijol y queso o frijol, queso y jamón.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Quesadillas fritas con frijoles.</span> 
+                        </div>
+                     </div>
+                  </div>
                                      </div>
                                 </div>
                                 <div class="col-xs-12 col-md-2"></div>
@@ -412,22 +634,84 @@
                                         </div>
                                 <!-- Card content -->
                                         <div class="card-body">
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Hamburguesa de sirloin con papas a la francesa</li>
-                                                  <li class="paq">  <span class="menu-rosa">&circledcirc;</span> Tacos de cochinita servidos con frijoles y pico de gallo.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Sandwichón de carnes frías y ensalada de pollo con pasta.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Pastel azteca acompañado de frijoles.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Tostadas de deshebrada o pollo con ensalada.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Torta de la barda o de pierna.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Tacos de trompo. </li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Mole con arroz.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Chilaquiles rojos o verdes con pollo acompañados de frijoles.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Flautas de pollo o res con ensalada verde..</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Hot dog con ensalada de col y papas a la francesa.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Tamales de puerco o pollo acompañadas con frijoles.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Ensalada Cesars con pollo. *Menú light.</li>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Panini pavo-panela o pavo-manchego con ensalada. *Menú light.</li>
-                                                 
-                                              
+                                        <div class="media ">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Hamburguesa de sirloin con papas a la francesa</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Tacos de cochinita servidos con frijoles y pico de gallo.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Sandwichón de carnes frías y ensalada de pollo con pasta.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Pastel azteca acompañado de frijoles.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Tostadas de deshebrada o pollo con ensalada.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">  Torta de la barda o de pierna.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Tacos de trompo.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Chilaquiles rojos o verdes con pollo acompañados de frijoles.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Flautas de pollo o res con ensalada verde.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Hot dog con ensalada de col y papas a la francesa.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Tamales de puerco o pollo acompañadas con frijoles.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Ensalada Cesars con pollo. **Menú light.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Panini pavo-panela o pavo-manchego con ensalada.  **Menú light.</span> 
+                        </div>
+                     </div>     
                     
                                         </div>
                                   </div><!-- Card -->
@@ -449,14 +733,31 @@
                                         </div>
                                 <!-- Card content -->
                                         <div class="card-body">
-  
-                                                  <br> <h4 class="menu-rosa"> </h4><p>(Costo adicional)</p>
-                                                  <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Pastel de carne con ensalada.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Carne asada a la Tampiqueña.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc; </span> Lasagna de carne con ensalada.</li>
-                                              <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Tacos de Bisteck.</span> </li>
-                                              
-                                              
+                                        ( Costo Adicional ) <br>
+                      <div class="media ">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Pastel de carne con ensalada.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Carne asada a la Tampiqueña.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Lasagna de carne con ensalada.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Tacos de Bisteck.</span> 
+                        </div>
+                     </div>
                     
                                         </div>
                                   </div><!-- Card -->
@@ -478,12 +779,36 @@
                                           <!-- Card content -->
                                           <div class="card-body">
                                              
-                                            <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Plátanos fritos con crema o lechera.</li>
-                                            <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Arroz con leche.</li>
-                                            <li class="paq"> <span class="menu-rosa">&circledcirc; </span> Carlota.</li>
-                                            <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Rollo de queso crema con aderezo de tamarindo.</span> </li>
-                                            <li class="paq"> <span class="menu-rosa">&circledcirc;</span> Charola de carnes frías.</li>
-                                            
+                                          <div class="media ">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Plátanos fritos con crema o lechera.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Arroz con leche.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Carlota.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Rollo de queso crema con aderezo de tamarindo.</span> 
+                        </div>
+                     </div>
+                     <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                        <div class="media-body">
+                                <span class="mt-0 ">Charola de carnes frías.</span> 
+                        </div>
+                     </div>  
                                           </div>
                                 </div>
                                 </div>
@@ -511,7 +836,7 @@
                       <div class="col-md-8">
                           <div id="GALAXER" >
                               <div class="card  margen-top3 ">
-                                  <div class="card-header-peach">
+                                  <div class="card-header-menus">
                                       <div class="row justify-content-center">
                                           <img style=""  class="img-paquetes" src="img/galaxer.png" alt="" >
                                       </div>
@@ -538,7 +863,7 @@
                              </div>
                           <div id="GRADUACION" >
                               <div class="card  margen-top3 ">
-                                  <div class="card-header-peach">
+                                  <div class="card-header-menus">
                                       <div class="row justify-content-center">
                                           <img style=""  class="img-paquetes" src="img/promotion.png" alt="" >
                                       </div>
@@ -550,7 +875,7 @@
                                   <img style="width: 100%;  height: auto; " src="img/promos/promo.jpg" alt="lazer">
                               </div>
                               
-                      </div> <BR></BR>
+                      </div> <BR>
                             </div><!-- Card -->
   
                             <p class="text"><strong style="font-weight: 700;">Felicidades papás! les dejamos la promo para celebrar junto con sus pequeños estos grandes logros!!! 

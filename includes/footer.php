@@ -3,8 +3,8 @@
     <div class="footer-band  text-center">
         <div class="container ">
           <div class="row margin-top-250">
-              <img src="img/logo.png" alt="logotipo" class="logo-footer">
-              <img class="like"src="img/like.png" alt="">  
+             <a href="index.php"> <img src="img/logo.png" alt="logotipo" class="logo-footer"></a>
+             <a href="https://www.facebook.com/giochiparty/" target="blank"> <img class="like"src="img/like.png" alt="">  </a>
           </div>
           <hr style="border-bottom: 0.1px solid white;">
           <div class="footer-copyright py-3">

@@ -102,7 +102,7 @@ p.text-head {
   background-color: white; 
 }
 .servicios {
-  padding: 100px 0;
+  padding: 0 0 100px 0;
   background-color: #fafafa; 
 }
 
@@ -194,9 +194,7 @@ margin-top: 20px;
 .margen-top3 {
   margin-top: 75px;
 }
-.card.paquetes {
-  height: 500px;
-}
+
 .card.paquetes:hover {
 
  -webkit-box-shadow: -1px 15px 24px -1px rgba(175,8,77,1);
@@ -219,7 +217,7 @@ outline: none;
 .card-naranja-fuego {
   margin: -11px;
   color: white;
-  padding: 22px 22px;
+  padding: 13px 22px;
   border-radius: 5px;
   background: -webkit-linear-gradient(top, rgba(255,217,0,1) 0%, rgba(231,56,39,1) 100%);
 }
@@ -401,7 +399,7 @@ li.paq  {
   margin: -11px;
   background: -webkit-linear-gradient(left, rgba(246,18,106,1) 0%, rgba(103,0,214,1) 100%);
   color: white;
-  padding: 22px 22px;
+  padding: 13px 22px;
   border-radius: 5px;
 }
 /* end paquetes*/
@@ -519,24 +517,72 @@ h5 {
 p.text.mt-10 {
   margin-top: -15px;
 }
+.mt-10 {
+  margin-top: 10px;
+}
+.btn-regresar {
+  margin-top: 15px;
+    background: -webkit-linear-gradient(top, rgb(126, 1, 255) 0%, rgb(244, 18, 105) 100%);
+   
+    color: white;
+    font-weight: 700;
+    padding: 13px 70px;
+    border: 2px white dashed;
+}
+h5.menu {
+  color: #ffb200;
+  margin-top: 20px;
+}
+h6.menu {
+  color: #ffb200;
+  margin-top: 20px;
+}
+.instalaciones-section-body, .paquetes-section-body {
+  padding: 30px 0;
+}
 .instalaciones-section {
-  padding: 100px 0;
-  background: url('../img/s1.png');
+  padding: 100px 0 30px;
+  background: url('../img/contacto3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   
+}
+.img-servicios {
+  margin-bottom: -16px;
+  width: 55px;
+}
+.img-instalaciones {
+  margin-bottom: -14px;
+  margin-top: -10px;
+  width: 70px;
+}
+.star-viñetas {
+  margin-top: -3px;
+}
+.servicio-title {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 17px;
+  font-weight: 100;
+  letter-spacing: 2px;
 }
 .paquetes-section {
-  padding: 100px 0;
-  background: url('../img/s3.png');
-  
+  padding: 100px 0 30px;
+  background: url(../img/s3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .platillos-section {
-  padding: 100px 0;
+  padding: 100px 0 30px;
   background: url('../img/s4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   
 }
 .promos-section {
-  padding: 100px 0;
+  padding: 100px 0 30px;
   background: url('../img/s2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   
 }
 a.negro {
@@ -545,8 +591,10 @@ a.negro {
 }
 
 .conocenos-header {
-  padding: 70px 0;
+  padding: 130px 0 50px;
  background: url('../img/contacto3.png');
+ background-repeat: no-repeat;
+  background-size: cover;
 
 }
 .conocenos-header-text {
