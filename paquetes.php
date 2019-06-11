@@ -9,7 +9,7 @@
       </div>
       <div class="row">
           <div class="col-xs-12 col-sm-12 text-center">
-             <a href="index.php"> <button class="btn-regresar">  <i class="fas fa-home"></i> REGRESAR</button></a>
+             <a href="index.php#conoce"> <button class="btn-regresar">  <i class="fas fa-home"></i> REGRESAR</button></a>
           </div>
       </div>
     </div>
@@ -269,9 +269,11 @@
                   <br><br>
                   <div class="row justify-content-center">
                           <div class="col-xs-12 col-md-12 text-xs-center">
-                          <a href="#"> <button class="btn-regresar"><i class="fas fa-file-download"></i>  Descargar Precios </button></a>
+                          <a href="precios.jpg" download="Lista de precios Giochi"> <button class="btn-regresar"><i class="fas fa-file-download"></i>  Descargar Precios </button></a>
                           </div>
                         </div>
+
+                 
       </div>
   
     </div>

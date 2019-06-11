@@ -19,7 +19,7 @@
       } );
   
  //     Carousel     
-      $("#owl-clients").owlCarousel({
+      $("#lobby").owlCarousel({
           items : 1,
           slideSpeed : 300,
           paginationSpeed : 400,
@@ -40,6 +40,80 @@
           autoPlay: 5000,
           singleItem: true
         });
+
+        $("#galaxer").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+        // $("#gameroom").owlCarousel({
+        //   items : 1,
+        //   slideSpeed : 300,
+        //   paginationSpeed : 400,
+        //   autoPlay: 5000,
+        //   singleItem: true
+        // });
+        $("#minigiochi").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+        $("#blasterzone").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+        $("#girlsfashion").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+        $("#juegos").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+        $("#karaoke").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+          $("#menu-niños").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+
+        $("#menu-adultos").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+        $("#menu-especial").owlCarousel({
+          items : 1,
+          slideSpeed : 300,
+          paginationSpeed : 400,
+          autoPlay: 5000,
+          singleItem: true
+        });
+
+
    //tabs
           function openCity(evt, cityName) {
             var i, tabcontent, tablinks;

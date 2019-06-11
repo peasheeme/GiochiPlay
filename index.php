@@ -4,7 +4,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-lg-8 ml-auto mr-auto">
-          <div class="brand text-center ">
+          <div class="brand text-center " data-aos="zoom-in"
+          data-aos-duration="3000">
             <div class="header-subtitulo">
               <img src="img/wellcome3.png" alt="" class="title-img">
            
@@ -22,10 +23,10 @@
 
   <section class="about">
       <div class="container">
-        <div class="row ">
-          <div class="col-xs-12 col-md-6 text-center ">
-              <img src="img/about.png" alt="Conocenos">
-              <img src="img/about2.png" alt="" class="img-about text-center"> 
+        <div class="row " >
+          <div class="col-xs-12 col-md-6 text-center  "   >
+              <img src="img/about.png" alt="Conocenos" data-aos="fade-up" data-aos-duration="3000">
+              <img src="img/about2.png" alt="" class="img-about text-center" data-aos="fade-up" data-aos-duration="800"> 
               <h3 class="subtitulo-about mostrar-about-991"> Se acerca un día genial, disfrútalo en  GIOCHI PLAY AND PARTY!!!</h3>
               
                
@@ -35,17 +36,20 @@
                 confortable con diversión segura a tu disposición.
           </div>
           <div class="col-xs-12 col-md-6 text-xs-center text-sm-left text-md-left  " >
-              <h3 class="subtitulo-about ocultar-about-991"> Se acerca un día genial, disfrútalo en  GIOCHI PLAY AND PARTY!!!</h3>
+            <div  data-aos="fade-up" data-aos-duration="800">
+            <h3 class="subtitulo-about ocultar-about-991" > Se acerca un día genial, disfrútalo en  GIOCHI PLAY AND PARTY!!!</h3>
               
-               
-            <p class="text ocultar-about-991"> 
-              En Giochi, estamos listos para que juntos hagamos de tu festejo, un día muy especial en el que tu
-              pequeño (a) disfrute al máximo y tus invitados tengan el mejor servicio en un ambiente 
-              confortable con diversión segura a tu disposición.
+              <p class="text ocultar-about-991"> 
+                En Giochi, estamos listos para que juntos hagamos de tu festejo, un día muy especial en el que tu
+                pequeño (a) disfrute al máximo y tus invitados tengan el mejor servicio en un ambiente 
+                confortable con diversión segura a tu disposición.
+            </div>
+             
            
-            <h2 class="menu ">Nuestra formula:</h2>
            
-            <div class="punteado"></div><br>
+           <div  data-aos="fade-up" data-aos-duration="1300"  data-aos-easing="ease-in-sine">
+           <h2 class="menu ">Nuestra formula:</h2>
+           <div class="punteado"></div><br>
               <div class="media">
                 <img class="d-flex mr-3" src="img/star2.png"  alt="star">
                 <div class="media-body">
@@ -70,8 +74,11 @@
                     El mejor servicio a tu disposición con personal capacitado en brindar la mejor atención.
                  </p>
                 </div>
-              </div><br>
-              <h2 class="menu">Nuestra Garantia:</h2>
+              </div>
+           </div>
+            <br>
+            <div  data-aos="fade-up" data-aos-duration="800"   data-aos-easing="ease-in-sine">
+            <h2 class="menu">Nuestra Garantia:</h2>
               <div class="punteado"></div><br>
               <div class="media">
                 <img class="d-flex mr-3" src="img/years.png"  alt="star">
@@ -81,7 +88,9 @@
                     Más de 6 años compartiendo momentos especiales en más de 1,300 eventos y 80,000 invitados atendidos!!!
                 
                 </p></div>
-              </div><br>
+              </div>
+            </div>
+              <br>
               
 
           </div>
@@ -134,7 +143,7 @@
         <div class="container">
             <div class="row">
               <div class="col-xs-12  col-md-2 col-lg-4 "></div>
-              <div class="col-xs-12 col-md-8 col-lg-4"> <h2 class="contactanos">Conócenos</h2></div>
+              <div class="col-xs-12 col-md-8 col-lg-4"> <h2 class="contactanos" data-aos="fade-right">Conócenos</h2></div>
               <div class="col-xs-12 col-md-2 col-lg-4"></div>
                
         </div>
@@ -161,20 +170,99 @@
                                         <h2 style="color:#7E01FF; text-align:center;"> <span style="color: #7E01FF;"></span>  INSTALACIONES<span style="color: #7E01FF;"></span></h2>
                                         
                                         <ul class="margen-top">
-                                          <li class="paq"><a href="#galax" style="color: white"><button class="instalaciones1">GALAXER</button></a></li>
-                                            <li class="paq"><a href="#GAMEROOM" style="color: white"><button class="instalaciones2">GAME ROOM </button></a></li>
+                                          <li class="paq"><a href="#galax" style="color: white"><button class="instalaciones7">GALAXER</button></a></li>
+                                          <li class="paq"><a href="#GIRLSFASHION" style="color: white"><button class="instalaciones4">GIRLS FASHION</button></a></li>
+                                            <li class="paq"><a href="#KARAOKE" style="color: white"><button class="instalaciones5">KARAOKE 4 KIDS</button></a></li>
                                             <li class="paq"><a href="#MINIGIOCHI" style="color: white"><button class="instalaciones3">MINI GIOCHI</button></a></li>
-                                            <li class="paq"><a href="#BLASTER" style="color: white"><button class="instalaciones4">BLASTER ZONE</button></a> </li>
-                                            <li class="paq"><a href="#GIRLSFASHION" style="color: white"><button class="instalaciones5">GIRLS FASHION</button></a></li>
-                                            <li class="paq"><a href="#JUEGOS" style="color: white"><button class="instalaciones6">AREA DE JUEGOS</button> </a></li>
-                                            <li class="paq"><a href="#KARAOKE" style="color: white"><button class="instalaciones7">KARAOKE 4 KIDS</button></a></li>
+                                            <li class="paq"><a href="#BLASTER" style="color: white"><button class="instalaciones2">BLASTER ZONE</button></a> </li>
+                                             <li class="paq"><a href="#JUEGOS" style="color: white"><button class="instalaciones6">AREA DE JUEGOS</button> </a></li>
+                                            <li class="paq"><a href="#GAMEROOM" style="color: white"><button class="instalaciones1">GAME ROOM </button></a></li>
+                                            <li class="paq"><a href="#COMUN" style="color: white"><button class="instalaciones7">lobby </button></a></li>
                                             
                                           </ul>
+
+                          <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/years.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Todas nuestras zonas son supervisadas</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> En Giochi es importante la seguridad de todos, Cada una de nuestras zonas 
+                                se encuentra supervisada bajo  nuestro Staff además de la atención dada en el lobby.</span> 
+                            </div>
+                         </div>
                                     </div>
-                                    <div class="col-md-8">
+                              <div class="col-md-8">
+                              <div id="COMUN" >
+                                              <div class="card  margen-top3 ">
+                                                  <div class="card-header-menus">
+                                                      <div class="row justify-content-center">
+                                                           <img style=""  class="img-paquetes" src="img/lobby.png" alt="" > 
+                                                      </div>
+                                                      <h4 class="card-title text-center">Conoce nuestra área común </h4>
+                                                  </div>
+                                          <!-- Card content -->
+                                                  <div class="card-body">
+                                                      <div id="lobby" class="owl-carousel margen-top2 ">
+                                                  
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/lobby/1.JPG"  alt="lobby">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/lobby/2.JPG"  alt="lobby">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/lobby/3.JPG"  alt="lobby">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/lobby/4.JPG"  alt="lobby">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/lobby/5.JPG"  alt="lobby">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/lobby/6.JPG"  alt="lobby">
+                                                    </div>
+                                                    
+                                            </div>
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Capacidad Máxima</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">  El lobby cuenta con una  capacidad máxima de 150 persona.  </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Conoce nuestro lobby</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Giochi está totalmente climatizado y equipado  para dar servicio de alimentos, mantelería, sillas, mesas redondas, loza para adultos y canastas para los niños.   </span> 
+                            </div>
+                         </div>
+                          <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Cada evento es único </h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Sugerimos para un mejor servicio que nos contacte para conocer su distribución 
+                                 (adultos y niños) de invitados y poder atenderle como lo merece. </span> 
+                            </div>
+                         </div>
+                         
+                         
+                         
+                    </div>
+                      </div><!-- Card -->
+                     <br>
+                           
+
+                                            
+                    </div>
                                           <div id="galax" >
                                               <div class="card  margen-top3 ">
-                                                  <div class="card-naranja-fuego">
+                                                  <div class="card-header-menus">
                                                       <div class="row justify-content-center">
                                                           <img style=""  class="img-paquetes" src="img/galaxer.png" alt="" >
                                                       </div>
@@ -182,15 +270,49 @@
                                                   </div>
                                           <!-- Card content -->
                                                   <div class="card-body">
-                                                      <div id="owl-clients" class="owl-carousel margen-top2 ">
+                                                      <div id="galaxer" class="owl-carousel  ">
                                                     <div class="owl-item"  style="padding-left: 5px ; ">
-                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/1.jpg" alt="lazer">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/6.jpg" alt="lazer">
+                                                    </div>
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/1.jpg"  alt="Lazer Game">
                                                     </div>
                                                     <div class="owl-item"  style="padding-left: 5px ;">
-                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/2.jpg"  alt="Auto Zone">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/2.jpg"  alt="Lazer Game">
                                                     </div>
                                                     <div class="owl-item"  style="padding-left: 5px ;">
-                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/3.jpg"  alt="Auto Zone">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/3.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/4.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/5.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/7.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/15.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/9.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/10.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/11.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/12.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/13.jpg"  alt="Lazer Game">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/galaxer/14.jpg"  alt="Lazer Game">
                                                     </div>
                                             </div>
                                             <div class="media mt-10">
@@ -227,41 +349,400 @@
                                 <span class=" "> Nuestros Equipos se encuentran abalados por Delta Strike marca líder en Estados Unidos y Galaxer distribuidor oficial en Latino América. </span> 
                             </div>
                          </div>
-                                                  </div>
-                                            </div><!-- Card -->
-                                               <br>
+                    </div>
+                      </div><!-- Card -->
+                     <br>
                            
 
                                             
-                                          </div>
-                                          <div id="GAMEROOM" >
-                                               
-                                            </div>
-                                            
-                                          <div id="MINIGIOCHI" >
-                                            <h3>MINIGIOCHI</h3>
-                                            <p>Tokyo is the capital of Japan.</p>
-                                          </div>
-                                          <div id="BLASTER" >
-                                              <h3>BLASTER</h3>
-                                              <p>London is the capital city of England.</p>
-                                            </div>
-                                            <div id="GIRLSFASHION" >
-                                              <h3>GIRLSFASHION</h3>
-                                              <p>Paris is the capital of France.</p> 
-                                            </div>
-                                            
-                                            <div id="JUEGOS" >
-                                              <h3>juegos</h3>
-                                              <p>Tokyo is the capital of Japan.</p>
-                                            </div>
-                                            <div id="KARAOKE">
-                                                <h3>KARAOKE</h3>
-                                                <p>London is the capital city of England.</p>
-                                              </div>
-                                    </div>
-                                  </div>
+                    </div>
+                   <div id="KARAOKE" >
+                      <div class="card  margen-top3 ">
+                          <div class="card-header-menus">
+                               <div class="row justify-content-center">
+                                     <img style=""  class="img-paquetes" src="img/karaoke.png" alt="" >
                               </div>
+                                 <h4 class="card-title text-center">¡Todos a cantar y a bailar! </h4>
+                           </div>
+                                          <!-- Card content -->
+                                                  <div class="card-body">
+                                                      <div id="karaoke" class="owl-carousel margen-top2 ">
+                                                   
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/karaoke/1.JPG"  alt="KARAOKE 4 KIDS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/karaoke/2.JPG"  alt="KARAOKE 4 KIDS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/karaoke/3.JPG"  alt="KARAOKE 4 KIDS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/karaoke/4.JPG"  alt="KARAOKE 4 KIDS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/karaoke/5.JPG"  alt="KARAOKE 4 KIDS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ; ">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/karaoke/6.JPG" alt="lKARAOKE 4 KIDS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/karaoke/7.JPG"  alt="KARAOKE 4 KIDS">
+                                                    </div>
+                                                    
+                                                   
+                                            </div>
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Área DISPONIBLE LAS 4 HORAS </h5>
+                              <div class="punteado"></div>
+                                <span class=" ">Durante las 4 horas de tu evento, karaoke kids está disponible para todos  tus invitados. </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Conoce KARAOKE 4 KIDS</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">Está equipado con micrófonos, pantalla, luces de disco y máquina de humo, al igual que todas las zonas en Giochi, está permanentemente supervisada por nuestro Staff. </span> 
+                            </div>
+                         </div>
+                         
+                         
+                         
+                        
+                    </div>
+                      </div><!-- Card -->
+                     <br>
+                 </div><!-- end Karaoke -->
+                                            
+       <div id="MINIGIOCHI" >
+             <div class="card  margen-top3 ">
+                          <div class="card-header-menus">
+                               <div class="row justify-content-center">
+                                     <img style=""  class="img-paquetes" src="img/minigio.png" alt="" >
+                              </div>
+                                 <h4 class="card-title text-center">Diversión para los más peques   </h4>
+                           </div>
+                                          <!-- Card content -->
+                                                  <div class="card-body">
+                                                      <div id="minigiochi" class="owl-carousel  ">
+                                                   
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/1.jpg"  alt="MINI GIOCHI ">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/2.jpg"  alt="MINI GIOCHI ">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/3.jpg"  alt="MINI GIOCHI ">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/4.jpg"  alt="MINI GIOCHI ">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/5.jpg"  alt="MINI GIOCHI ">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ; ">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/6.jpg" alt="MINI GIOCHI ">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/7.jpg"  alt="MINI GIOCHI ">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/mini/8.jpg"  alt="MINI GIOCHI ">
+                                                    </div>
+                                                    
+                                                   
+                                            </div>
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Edades Recomendadas</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">  Menores de 3 años.  </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Conoce Mini Giochi</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Es un área pensada y adecuada a la necesidad y seguridad de los más pequeños.  </span> 
+                            </div>
+                         </div>
+                          <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Los más peques tambien se divierten</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> La seguridad e integridad de cada pequeñito es un tema muy importante para nosotros, debido a esto, Mini Giochi es un área de juegos separada del laberinto de niños más grandes. </span> 
+                            </div>
+                         </div>
+                         
+                         
+                    </div>
+             </div><!-- Card -->
+        </div>
+     <div id="BLASTER" >
+          <div class="card  margen-top3 ">
+           <div class="card-header-menus">
+               <div class="row justify-content-center">
+                     <img style=""  class="img-paquetes" src="img/blaster.png" alt="" >
+            </div>
+                                 <h4 class="card-title text-center">Disfruta  DE BLASTER ZONE </h4>
+                </div>
+                                          <!-- Card content -->
+                                                  <div class="card-body">
+                                                      <div id="blasterzone" class="owl-carousel margen-top2 ">
+                                                   
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/blaster/1.JPG"  alt="blaster">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/blaster/2.JPG"  alt="blaster">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/blaster/3.JPG"  alt="blaster">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/blaster/4.JPG"  alt="blaster">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/blaster/5.JPG"  alt="blaster">
+                                                    </div>
+                                                   
+                                                    
+                                                   
+                                            </div>
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Edades Recomendadas</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">  De 4 años en adelante.  </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Conoce Blaster Zone</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Blaster es una de nuestras zonas exclusivas, consta de 4 cañones que disparan pequeñas pelotas de fommy a base de aire, cada equipo debe tratar de anotar el mayor número de pelotas en la red opuesta para así ganar mucha más diversión!!! </span> 
+                            </div>
+                         </div>
+
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">FUTBOLITO  ¡¡ZONA DE ESTRENO!!</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Acondicionada para jugar fútbol rápido, dependiendo la edad de los niños (as), puede usarse desde 2 hasta 8 jugadores. Anota un goooool te esperamos!!!</span> 
+                            </div>
+                         </div>
+                         
+                    </div>
+                      </div><!-- Card -->
+             </div>
+      <div id="GIRLSFASHION" >
+                            <div class="card  margen-top3 ">
+                          <div class="card-header-menus">
+                               <div class="row justify-content-center">
+                                     <img style=""  class="img-paquetes" src="img/girls.png" alt="" >
+                              </div>
+                                 <h4 class="card-title text-center">Sólo para chicas!! </h4>
+                           </div>
+                                          <!-- Card content -->
+                                                  <div class="card-body">
+                                                      <div id="girlsfashion" class="owl-carousel margen-top2 ">
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/5.JPG"  alt="girsfashion">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ; ">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/6.JPG" alt="girsfashion">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/7.JPG"  alt="girsfashion">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/8.JPG"  alt="girsfashion">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/1.JPG"  alt="girsfashion">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/2.JPG"  alt="girsfashion">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/3.JPG"  alt="girsfashion">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/girs/4.JPG"  alt="girsfashion">
+                                                    </div>
+                                                   
+                                            </div>
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Edades Recomendadas</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">  De 3 años en adelante  </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Conoce GIRLS FASHION</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">Es el lugar perfecto para que cada pequeña se sienta una verdadera princesa, 
+                                ponemos a su disposición más de 30 disfraces de los principales disfraces de Disney. 
+                                </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Equipamiento</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">Tiene una pasarela gigante, ¡¡¡tocadores, vestidores y personal calificado para que lo disfruten en grande!!! 
+                                </span> 
+                            </div>
+                         </div>
+                          
+                    </div>
+                      </div><!-- Card -->
+                                            </div>
+                                            
+                      <div id="GAMEROOM" >
+                                            <div class="card  margen-top3 ">
+                          <div class="card-header-menus">
+                               <div class="row justify-content-center">
+                                     <img style=""  class="img-paquetes" src="img/gameroom.png" alt="" > 
+                              </div>
+                                 <h4 class="card-title text-center">Disfruta de GAMEROOM </h4>
+                           </div>
+                                          <!-- Card content -->
+                                                  <div class="card-body">
+                                                      <!-- <div id="gameroom" class="owl-carousel margen-top2 ">
+                                                   
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/gameroom/1.JPG"  alt="GAMEROOM">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/gameroom/2.JPG"  alt="GAMEROOM">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/gameroom/3.JPG"  alt="GAMEROOM">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/gameroom/4.JPG"  alt="GAMEROOM">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/gameroom/5.JPG"  alt="GAMEROOM">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ; ">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/gameroom/6.JPG" alt="GAMEROOM">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/gameroom/7.JPG"  alt="KARAOKE 4 KIDS">
+                                                    </div>
+                                                    
+                                                   
+                                            </div> -->
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Edades Recomendadas</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Todas las edades! </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Conoce Game Zone</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">Está equipada con hockey de mesa y futbol de mesa, son el complemento perfecto para completar la diversión.
+                                  Durante su evento, papás y jóvenes pueden hacer uso constante y no tienen ningún costo adicional.</span> 
+                            </div>
+                         </div>
+                         
+                    </div>
+                      </div><!-- Card -->
+                     </div>
+              <div id="JUEGOS">
+                     <div class="card  margen-top3 ">
+                          <div class="card-header-menus">
+                               <div class="row justify-content-center">
+                                   <img style=""  class="img-paquetes" src="img/juegos.png" alt="" > 
+                              </div>
+                                 <h4 class="card-title text-center">Zona de Juegos</h4>
+                           </div>
+                                          <!-- Card content -->
+                    <div class="card-body">
+                                  <div id="juegos" class="owl-carousel margen-top2 ">
+                                                   <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/juegos/1.JPG"  alt="área de juegos">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/juegos/2.JPG"  alt="área de juegos">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/juegos/3.JPG"  alt="área de juegos">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/juegos/4.JPG"  alt="área de juegos">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/instalaciones/juegos/5.JPG"  alt="área de juegos">
+                                                    </div>
+                                        </div>
+                                            <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Edades Recomendadas</h5>
+                              <div class="punteado"></div>
+                                <span class=" ">  De 3 años en adelante, inclusive los papás pueden jugar!!  </span> 
+                            </div>
+                         </div>
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">3 Pisos de diversión</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Es un laberinto con tres pisos de módulos conectados con inflables y juegos interiores.  </span> 
+                            </div>
+                         </div>
+                          <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  "> Increibles Resbaladillas</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Contamos con 3 opciones de resbaladillas de colores que caen en alberca de pelotas, la super resbaladilla que genera adrenalina y diversión  </span> 
+                            </div>
+                         </div>
+                         
+                         
+                         <div class="media mt-10">
+                            <img  class=" d-flex mr-3 " src="img/years.png" alt="paquetes" width="25"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">Seguridad</h5>
+                              <div class="punteado"></div>
+                                <span class=" "> Está zona SIEMPRE está supervisada por staff Giochi y también tenemos la resbaladilla tubular.</span> 
+                            </div>
+                         </div>
+                    </div>
+                      </div><!-- Card -->
+                </div>
+                     </div>
+                   </div>
+                </div>
           </div>            <!-- END INSTALACIONES-->
           <div id="tabs-2" > <!--PAQUETES-->
             <div id="paquetes">
@@ -275,7 +756,8 @@
                       <li class="paq"><a href="#PAQUETE1" style="color: white"><button class="instalaciones5">Renta de instalaciones</button></a></li>
                       <div class="row justify-content-start">
                           <div class="col-xs-12 col-md-12 text-left">
-                          <a href="#"> <button class="btn-descarga"><i class="fas fa-file-download"></i>  Descargar Precios </button></a>
+                                                
+                          <a href="precios.jpg" download="Lista de precios Giochi">  <button class="btn-descarga"><i class="fas fa-file-download"></i>  Descargar Precios </button></a>
                           </div>
                         </div>
                       
@@ -549,9 +1031,9 @@
                   </div>
                   <div class="col-md-8">
                         <div id="peque" >
+                          
                             <div class="row">
-                                <div class="col-xs-12 col-md-2"></div>
-                                <div class="col-xs-12 col-md-8">
+                                 <div class="col-xs-12 col-md-12">
                                     <div class="card menus margen-top3">
                                           <div class="card-header-menus">
                                             <div class="row justify-content-center">
@@ -561,6 +1043,15 @@
                                           </div>
                                           <!-- Card content -->
                                           <div class="card-body">
+                                          <div id="menu-niños" class="owl-carousel  ">
+                                                   <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/niños/1.jpg"  alt="MENÚ NIÑOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/niños/2.jpg"  alt="MENÚ NIÑOS">
+                                                    </div>
+                                                    
+                                        </div>
                                           <div class="media ">
                         <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
                         <div class="media-body">
@@ -618,13 +1109,12 @@
                   </div>
                                      </div>
                                 </div>
-                                <div class="col-xs-12 col-md-2"></div>
+                               
                               </div>
                         </div>
                         <div id="ADULTOS" >
-                            <div class="row">
-                                <div class="col-xs-12 col-md-2"></div>
-                                <div class="col-xs-12 col-md-8 ">
+                            <div>
+                                <div class="col-xs-12 col-md-12 ">
                                     <div class="card menus margen-top3">
                                         <div class="card-header-menus ">
                                             <div class="row justify-content-center">
@@ -634,6 +1124,37 @@
                                         </div>
                                 <!-- Card content -->
                                         <div class="card-body">
+                                        <div id="menu-adultos" class="owl-carousel  ">
+                                                   
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/3.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/4.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/5.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <!-- <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/6.jpg"  alt="MENÚ ADULTOS">
+                                                    </div> -->
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/7.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/8.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/9.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/1.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/2.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    
+                                        </div>
                                         <div class="media ">
                         <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
                         <div class="media-body">
@@ -716,7 +1237,7 @@
                                         </div>
                                   </div><!-- Card -->
                                 </div>
-                                <div class="col-xs-12 col-md-2"></div>
+                               
                               </div>
                         </div>
                           
@@ -828,7 +1349,7 @@
   
                           <ul class="margen-top">
                               <li class="paq" ><a href="#GALAXER" style="color: white"> <button class="instalaciones7">LAZER GAME</button> </a></li>
-                              <li class="paq"><a href="#GRADUACION" style="color: white"> <button class="instalaciones3">GRADUACIONES</button></a></li>
+                              <!-- <li class="paq"><a href="#GRADUACION" style="color: white"> <button class="instalaciones3">GRADUACIONES</button></a></li> -->
                             
                               
                             </ul>
@@ -849,39 +1370,25 @@
                                               <img style="width: 100%;  height: auto; " src="img/promos/promo1.jpg" alt="lazer">
                                           </div>
                                           
-                                  </div>
-                            
-                                  </div>
-                            </div><!-- Card -->
-                            <h3 style="color:#D30857; margin-top: 20PX;;"> Disfruta de Lazer Game EL ÚNICO EN LA ZONA!!</h3>
-                            <p class="text"><strong style="font-weight: 700;">Al reservar tu paquete GIOCHI, aprovecha la promoción en juegos láser e invita a todos los amigos y familia a vivir la experiencia!!!
-                                Agrega a tu evento 2 horas LazerGame por sólo $1,500.
-                                Vigencia en reservaciones del 22 de mayo al 30 de junio!!! 
-                                Está promo SI se puede aplicar junto con otras promociones Giochi vigentes.
-                          
-                                </p> 
-                             </div>
-                          <div id="GRADUACION" >
-                              <div class="card  margen-top3 ">
-                                  <div class="card-header-menus">
-                                      <div class="row justify-content-center">
-                                          <img style=""  class="img-paquetes" src="img/promotion.png" alt="" >
-                                      </div>
-                                      <h4 class="card-title text-center">Wow otro año escolar concluyendo!!! </h4>
-                                  </div>
-                          <!-- Card content -->
-                          <div id="owl-promo-graduacion" class="owl-carousel margen-top2 ">
-                              <div class="owl-item"  style="padding-left: 5px ; ">
-                                  <img style="width: 100%;  height: auto; " src="img/promos/promo.jpg" alt="lazer">
-                              </div>
+                                  </div> <br>
+                                  <div class="media mt-10">
+                            <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="paquetes"> 
+                            <div class="media-body">
+                               <h5 class="menu mt-0  ">2hr x $1,500</h5>
+                              <div class="punteado"></div>
                               
-                      </div> <BR>
+                                <span class=" "> Promoción exclusiva al contratar tu evento en Giochi!!! <br>
+                                <br>
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 text-left">
+                                 <a href="tel:8332283325"> <button class="btn-regresar">  <i class="fas fa-phone"></i> Llámanos </button></a>
+                                </div>
+                             </div>
+                                  </div>
                             </div><!-- Card -->
-  
-                            <p class="text"><strong style="font-weight: 700;">Felicidades papás! les dejamos la promo para celebrar junto con sus pequeños estos grandes logros!!! 
-                          
-                                </p>
-                            </div>
+                            
+                             </div>
+                         
                             
                           
                     </div>
@@ -929,7 +1436,7 @@
       <div class="container">
           <div class="row">
             <div class="col-xs-12  col-md-2 col-lg-4 "></div>
-            <div class="col-xs-12 col-md-8 col-lg-4"> <h2 class="contactanos">Contáctanos</h2></div>
+            <div class="col-xs-12 col-md-8 col-lg-4"> <h2 class="contactanos" data-aos="fade-right">Contáctanos</h2></div>
             <div class="col-xs-12 col-md-2 col-lg-4"></div>
              
       </div>
@@ -942,7 +1449,7 @@
         <div class="row">
             <div class="col-xs-12  col-md-12 col-lg-4 ocultar-movil-992 ">
                <br>
-                  <img src="img/niño.png" alt="">
+                  <img src="img/niño.png" alt="" data-aos="zoom-in" data-aos-duration="3000">
                 
             </div>
             <div class="col-xs-12  col-md-6 col-lg-4">
@@ -978,7 +1485,7 @@
            </form>
             </div>
             <div class="col-xs-12  col-md-6 col-lg-4 ">
-                <img class="img-niña" src="img/niña.png" alt="">
+                <img class="img-niña" src="img/niña.png" alt="" data-aos="zoom-in-up" data-aos-duration="3000">
             </div>
           </div>
 
@@ -1067,6 +1574,12 @@
                 <!-- Card body -->
                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                   <div class="card-body">
+                  <div class="media mt-10">
+                        <img  class=" d-flex mr-3 star-viñetas" src="img/star.png" alt="Menu"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> Paquetes a partir de 100 incluye 2 piñatas.</span> 
+                        </div>
+                     </div>
                       <p class="subtitulo-contacto"> 
                           <strong>LUNES A VIERNES</strong>
                         </p>         
@@ -1155,15 +1668,31 @@
                           
                     <h3 class="yellow1">¡HORARIOS DE FIESTAS!</h3>
                     <div class="punteado"></div>
-                    <p class="subtitulo-contacto"> 
+                   
+                      <div class="media mt-10">
+                        <img  class=" d-flex mr-3 " src="img/hora.png" alt="Menu" width="25"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> <p class="subtitulo-contacto"> 
                         <strong>LUNES A VIERNES</strong>
-                      </p>         
-                    <p class="text"> 4:00 pm - 8:00pm </p> 
+                      </p> </span> 
+                                <p class="text"> 4:00 pm - 8:00pm </p> 
+                        </div>
+                     </div>        
+                   
                     <p class="subtitulo-contacto">
-                        <strong>SABADOS Y DOMINGOS</strong>
+                    <div class="media mt-10">
+                        <img  class=" d-flex mr-3 " src="img/hora.png" alt="Menu" width="25"> 
+                        <div class="media-body">
+                                <span class="mt-0 "> <p class="subtitulo-contacto"> 
+                                <strong>SABADOS Y DOMINGOS</strong>
+                      </p> </span> 
+                      <p class="text"> 10:00 am - 2:00pm    
+                     Y 4:00 pm - 8:00pm </p>
+                        </div>
+                     </div>   
+                       
                       </p>    
-                      <p class="text"> 10:00 am - 2:00pm </p>     
-                    <p class="text"> 4:00 pm - 8:00pm </p>
+                     
                         
                     <h3 class="yellow1">RENTA DE INSTALACIONES</h3>
                     <div class="punteado"></div>

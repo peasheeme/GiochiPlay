@@ -9,7 +9,7 @@
       </div>
       <div class="row">
           <div class="col-xs-12 col-sm-12 text-center">
-             <a href="index.php"> <button class="btn-regresar">  <i class="fas fa-home"></i> REGRESAR</button></a>
+             <a href="index.php#conoce"> <button class="btn-regresar">  <i class="fas fa-home"></i> REGRESAR</button></a>
           </div>
       </div>
     </div>
@@ -17,6 +17,56 @@
 
 <section class="instalaciones-section-body">
   <div class="container">
+
+  <div id="menu-adultos" class="owl-carousel margen-top2 ">
+                                                   
+  <div class="owl-item"  style="padding-left: 5px ;">
+
+                                                   <img style="width: 100%;  height: auto; " src="img/menu/adultos/3.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/4.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/5.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <!-- <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/6.jpg"  alt="MENÚ ADULTOS">
+                                                    </div> -->
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/7.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/8.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/adultos/9.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/1.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/2.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/3.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/4.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/5.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/6.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    <div class="owl-item"  style="padding-left: 5px ;">
+                                                        <img style="width: 100%;  height: auto; " src="img/menu/7.jpg"  alt="MENÚ ADULTOS">
+                                                    </div>
+                                                    
+                                                    
+                                                  
+                                           </div>
   <div class="accordion" id="accordionExample">
                   <div class="card z-depth-0 bordered">
                     <div class="card-header" id="headingOne">

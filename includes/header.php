@@ -14,6 +14,7 @@
   <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <link href="css/mdb.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy|Raleway:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
@@ -54,13 +55,33 @@
 </head>
 
 <body>
-    <a class="button-whatsapp"  href="https://api.whatsapp.com/send?phone=528128957827" target="_blank"><i class="fab fa-whatsapp"></i></a>
-
-    <div class="barra-inf">
+  <!-- <a class="button-whatsapp"  href="https://api.whatsapp.com/send?phone=528128957827" target="_blank"><i class="fab fa-whatsapp"></i></a>-->
+   <a class=" "  href="reserva.php">  <button class="btn-reservar2"> <img src="img/reservar2.png" alt="reservar" style="height: 110px;"></button> </a>
+   <!-- <div class="barra-inf">
         <div class="container">
             <div class="row">
-                    <a class="button-mail"  href="info@giochi.mx"><i class="fas fa-envelope"></i></a>
+                    <a class="button-mail"  href="info@giochi.mx"> 
+                   <button class="btn-reserva"> <img src="img/reservar.png" alt="reservar" class="imagen-footers"></button> </a>
                     <a class="button-llamada"  href="tel:8332283325 "><i class="fas fa-phone"></i></a>
+            </div>
+        </div>
+    </div>-->
+    <div class="barra-inf">
+        <div class="container">
+            <div class="row justify-content-center">
+                  <div class="col-xs-3">
+                  <a  href="tel:8332283325 "><button class="btn-reserva"><i class="fas fa-phone" style="color:white"></i></button></a>
+                  </div>
+                  <div class="col-xs-6 text-center">
+                  <a class=" "  href="reserva.php"> 
+                   <button class="btn-reserva"> <img src="img/reservar.png" alt="reservar" style="height: 49px;"></button> </a>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#">
+                 <!-- <a   href="https://api.whatsapp.com/send?phone=528128957827" target="_blank">
+                  <button class="btn-reserva"> <i class="fab fa-whatsapp" style="color:white; font-size:43px"></i></a></button> -->
+                 <button class="btn-reserva"><i class="fas fa-envelope"  style="color:white; font-size:43px"></i></a></button>
+                  </div>
             </div>
         </div>
     </div>

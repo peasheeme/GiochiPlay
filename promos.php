@@ -9,7 +9,7 @@
       </div>
       <div class="row">
           <div class="col-xs-12 col-sm-12 text-center">
-             <a href="index.php"> <button class="btn-regresar">  <i class="fas fa-home"></i> REGRESAR</button></a>
+             <a href="index.php#conoce"> <button class="btn-regresar">  <i class="fas fa-home"></i> REGRESAR</button></a>
           </div>
       </div>
     </div>
@@ -35,7 +35,7 @@
                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                       data-parent="#accordionExample">
                       <div class="card-body">
-                     <div id="owl-clients" class="owl-carousel margen-top2 ">
+                     <div id="owl-promo-galaxer" class="owl-carousel margen-top2 ">
                               <div class="owl-item"  style="padding-left: 5px ; ">
                                   <img style="width: 100%;  height: auto; " src="img/promos/1.jpg" alt="lazer">
                               </div>
